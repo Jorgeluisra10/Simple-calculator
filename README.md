@@ -10,6 +10,7 @@ Features:
 - Built using Tkinter, Python's standard GUI toolkit.
 - Responsive and lightweight design.
 
+
 How to Use:
 
 - Run the calculadora.py file in a Python environment.
